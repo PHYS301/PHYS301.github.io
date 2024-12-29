@@ -4,7 +4,6 @@ format:
   html:
     link-external-newwindow: true
 editor: source
-
 ---
 
 # PHYS 301 Mathematical Methods for Physics
@@ -15,11 +14,11 @@ From [xkcd.com](https://xkcd.com/2207/)
 
 ## Course Description
 
-A study of selected mathematical techniques necessary for advanced work in physics and other sciences. The interpretation of functions as vectors in Hilbert space provides a unifying theme for developing Fourier analysis, special functions, methods for solving ordinary and partial differential equations, and techniques of vector calculus. These methods are applied to selected problems in acoustics, heat flow, electromagnetic fields, and classical and quantum mechanics. 
+A study of selected mathematical techniques necessary for advanced work in physics and other sciences. The interpretation of functions as vectors in Hilbert space provides a unifying theme for developing Fourier analysis, special functions, methods for solving ordinary and partial differential equations, and techniques of vector calculus. These methods are applied to selected problems in acoustics, heat flow, electromagnetic fields, and classical and quantum mechanics.
 
 Normally offered every year, winter
 
-Prerequisite(s): 
+Prerequisite(s):
 
 ## Prerequisites
 
