@@ -1,0 +1,28 @@
+---
+title: "PHYS 301"
+format: 
+  html:
+    link-external-newwindow: true
+editor: source
+
+---
+
+# PHYS 301 Mathematical Methods for Physics
+
+![xkcd: Math work](https://imgs.xkcd.com/comics/math_work.png)
+
+From [xkcd.com](https://xkcd.com/2207/)
+
+## Course Description
+
+A study of selected mathematical techniques necessary for advanced work in physics and other sciences. The interpretation of functions as vectors in Hilbert space provides a unifying theme for developing Fourier analysis, special functions, methods for solving ordinary and partial differential equations, and techniques of vector calculus. These methods are applied to selected problems in acoustics, heat flow, electromagnetic fields, and classical and quantum mechanics. 
+
+Normally offered every year, winter
+
+Prerequisite(s): 
+
+## Prerequisites
+
+PHYS 211, MATH 205 can be taken concurrently.
+
+Recommended background, which may be taken concurrently: MATH 206.
