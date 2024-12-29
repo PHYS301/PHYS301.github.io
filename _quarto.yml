@@ -1,19 +1,24 @@
 project:
   type: website
+  output-dir: .
 
 website:
-  title: "PHYS 301 Website"
+  title: "PHYS 301"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: https://phys301.github.io/Winter2025/
+        text: "Winter 2025" 
+        target: _blank #makes it open in new page
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    toc: true
+
+editor: visual
+self-contained: true
 
 
 
